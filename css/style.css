@@ -444,6 +444,7 @@ body {
   font-size: 15px;
   line-height: 130%;
   background: white;
+  color: #000000;
   border: none;
   display: grid;
   -webkit-box-align: center;
@@ -749,6 +750,7 @@ body {
   font-size: 15px;
   line-height: 130%;
   background: white;
+  color: #000000;
   border: none;
   display: grid;
   -webkit-box-align: center;
